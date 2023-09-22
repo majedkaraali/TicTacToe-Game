@@ -4,7 +4,6 @@ root=Tk()
 #root.geometry('800x600')
 #root.attributes('-fullscreen', True)
 
-# test
 
 is_winner=0
 
